@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 10 11:36:47 2020
 
-@author: user
+@author: Majd Awar - Justin Elhalabi
 """
 import os
 import yaml
