@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Feb 10 11:36:47 2020
-@author: Majd Awar
+@author: Majd AL Aawar
 """
 import yaml
 import pandas as pd
